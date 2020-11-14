@@ -38,5 +38,4 @@ jobs:
         args: >
           -Dsonar.organization=my-organization
           -Dsonar.projectKey=my-projectkey
-          -Dsonar.verbose=true
 
