@@ -29,5 +29,5 @@ jobs:
       with:
         args: >
           -Dsonar.organization=zhangjfx
-          -Dsonar.projectKey=demo3.1
-
+          -Dsonar.projectKey=demo3
+          -Dsonar.verbose=true
